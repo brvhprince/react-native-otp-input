@@ -58,4 +58,16 @@ buck-out/
 ReactotronConfig.js
 
 # ts build dir
-dist
+example/
+.vscode
+assets/
+helpers/
+.buckconfig
+.flowconfig
+.watchmanconfig
+babel.config.js
+index.tsx
+CONTRIBUTING.md
+setup-test.js
+styles.ts
+tsconfig.json

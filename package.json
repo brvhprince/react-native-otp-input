@@ -48,8 +48,7 @@
   ],
   "author": "TTT Studio (https://ttt.studio)",
   "contributors": [
-    "Becky Wu <becky.wu@ttt.studio> (https://github.com/BeckyWu220)",
-    "Felipe Peña <felipe@penya.cl> (http://felipe.penya.cl)"
+    "Penny Codes (https://github.com/brvhprince)"
   ],
   "license": "MIT",
   "devDependencies": {
@@ -70,6 +69,6 @@
     "typescript": "^3.8.3"
   },
   "dependencies": {
-    "expo-clipboard": "^1.0.1"
+    "expo-clipboard": "^1.0.2"
   }
 }
