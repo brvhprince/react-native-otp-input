@@ -31,13 +31,7 @@ import OTPInputView from '@brvhprince/react-native-otp-input'
 
 ```
 
-## More Advanced Usage (Check the docs on the parent library
+## More Advanced Usage (Check the docs on the parent library)
 
-```js
-import OTPInputView from '@brvhprince/react-native-otp-input'
-
-...
-
-```
 [TTT Studios react-native-otp-input](https://github.com/tttstudios/react-native-otp-input)
 
