@@ -71,3 +71,4 @@ CONTRIBUTING.md
 setup-test.js
 styles.ts
 tsconfig.json
+__tests__/
