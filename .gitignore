@@ -68,7 +68,8 @@ helpers/
 babel.config.js
 index.tsx
 CONTRIBUTING.md
-setup-test.js
+setup-tests.js
 styles.ts
+yarn.lock
 tsconfig.json
 __tests__/
